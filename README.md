@@ -56,13 +56,22 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 sudo setoolkit
 ```
+![Uploading image.png…]()
+
+
 **2. Navigate:**
 ```bash
 1) Social-Engineering Attacks  
 2) Website Attack Vectors  
 3) Credential Harvester Attack Method  
 ```
+<img width="917" height="781" alt="image" src="https://github.com/user-attachments/assets/b3406edf-a7c9-40d6-9961-4e9b462d45d0" />
+<img width="948" height="431" alt="image" src="https://github.com/user-attachments/assets/3ac819f2-3e1d-4bd1-946b-e681a94bb2a6" />
+
+
 **3. Enter your IP address as the attacker server.**
+<img width="742" height="368" alt="image" src="https://github.com/user-attachments/assets/73fa4795-5b58-4852-982d-1b9ef7f807e8" />
+
 **4. Choose:**
 ```bash
 2) Site Cloner
@@ -70,11 +79,15 @@ sudo setoolkit
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
 
 **6. Send the generated link to the victim.**
+<img width="814" height="476" alt="image" src="https://github.com/user-attachments/assets/9463e04b-7ffd-47bb-a131-e924d8ce3f84" />
+
 
 **7. Once the victim logs in → their credentials are stored in:**
 ```bash
 /var/www/html/
 ```
+<img width="628" height="195" alt="image" src="https://github.com/user-attachments/assets/7569286a-fb8b-40ff-a095-eeaff36ac7cd" />
+
 
 
 
