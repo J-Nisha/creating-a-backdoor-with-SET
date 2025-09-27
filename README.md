@@ -56,7 +56,7 @@ Social Engineering attacks are the various cons used by the hackers to trick peo
 ```bash
 sudo setoolkit
 ```
-![Uploading image.png…]()
+<img width="645" height="108" alt="image" src="https://github.com/user-attachments/assets/c237161a-1601-49d2-ba5e-0f0c726e7f78" />
 
 
 **2. Navigate:**
@@ -77,6 +77,8 @@ sudo setoolkit
 2) Site Cloner
 ```
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
+![Uploading image.png…]()
+
 
 **6. Send the generated link to the victim.**
 <img width="814" height="476" alt="image" src="https://github.com/user-attachments/assets/9463e04b-7ffd-47bb-a131-e924d8ce3f84" />
